@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome!
-======
 I am currently a master student at Shanghai Jiao Tong University, Shanghai, advised by Meng Jin. My research interests include **wireless sensing** and **RFID systems**.
 
 **Email**:LiKexin0103@sjtu.edu.cn
