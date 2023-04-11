@@ -23,3 +23,5 @@ Publication
 ======
 - [[Mobicom’23](https://sigmobile.org/mobicom/2023/)] “Fast, Fine-grained, and Robust Grouping of RFIDs” <br>
   Meng Jin, **Kexin Li**, Xiaohua Tian, Xinbing Wang, Chenghu Zhou
+- [[Sensys’22](https://dl.acm.org/doi/10.1145/3560905.3568505)] “A Passive Eye-in-Hand “Camera” for Minature Robots” <br>
+  Meng Jin, Shun Yao, **Kexin Li**, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, Xinde Cao 
