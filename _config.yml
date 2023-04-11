@@ -7,13 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+title                    : "Kexin's Homepage"
+name                     : &name "Kexin Li"
+description              : &description "Master student from SJTU"
 url                      : https://LiKexin926.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LiKexin926/LiKexin926.github.io"
+repository               : "https://github.com/LiKexin926/LiKexin926.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Kexin Li"
-  avatar           : "images/Kexin.png"
+  avatar           : "Kexin.png"
   bio              : "AIoT Group | Shanghai Jiao Tong University"
   location         : "Shanghai"
   employer         :
@@ -94,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/LiKexin926"
+  github           : "LiKexin926"
   google_plus      :
   keybase          :
   instagram        :
