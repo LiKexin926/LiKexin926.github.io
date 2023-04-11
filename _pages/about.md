@@ -13,13 +13,13 @@ I am currently a master student at Shanghai Jiao Tong University, Shanghai, advi
 
 Eduation
 ======
-- **School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University** (September 2021 - present)
+- **School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University** (September 2021 - present) <br>
   Master Student in Electronics Information
 
-- **School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University** (September 2017 - June 2021)
+- **School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University** (September 2017 - June 2021 <br>
   B.S. in Information Engineering
 
 Publication
 ======
-- [[Mobicom’23](https://sigmobile.org/mobicom/2023/)] “Fast, Fine-grained, and Robust Grouping of RFIDs”
+- [[Mobicom’23](https://sigmobile.org/mobicom/2023/)] “Fast, Fine-grained, and Robust Grouping of RFIDs” <br>
   Meng Jin, **Kexin Li**, Xiaohua Tian, Xinbing Wang, Chenghu Zhou
